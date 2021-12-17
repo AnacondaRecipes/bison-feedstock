@@ -11,6 +11,7 @@ source:
 build:
   skip: true  # [win]
   number: 1
+  # trigger: 1
   detect_binary_files_with_prefix: true
 
 requirements:
